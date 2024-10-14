@@ -8,7 +8,7 @@ Access the application here:
 
 The productions of 3 fossil energies were put in a file.<br><br>
 From 1900 to 2022, we can check how much all the countries produced for oil, gas and coal.<br><br>
-We started to produce process the data, then agregated it and analysed it at the end.<br><br>
+We started by processing the data, then agregated it and analysed it at the end.<br><br>
 The first part of the analysis is made through the PDF file: summarizing the main trends for oil, gas and coal productions.<br><br>
 The second part is to display the information contained in the file through a Streamlit application.
 
